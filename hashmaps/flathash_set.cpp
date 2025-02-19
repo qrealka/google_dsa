@@ -42,8 +42,6 @@ namespace {
         }(entriesPerBucket);
 
 
-
-
         struct Entry {
             key_type key;
 
